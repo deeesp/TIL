@@ -48,8 +48,8 @@
 | 42  | Merge K sorted lists | heap | [leetcode](https://leetcode.com/problems/merge-k-sorted-lists/) | [A](heap/merge_k_sorted_lists.py) |   |
 | 43  | Kth largest element | heap | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [A](heap/kth_largest_element.py) |   |
 | 44  | Find Median from Data Stream | heap | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [A](heap/find_median_from_data_stream.py) |   |
-| 45  | Two sum | hash | [leetcode](https://leetcode.com/problems/two-sum/) | [A](hash/two_sum.py) | ++! |
-| 46  | Group Anagrams | hash | [leetcode](https://leetcode.com/problems/group-anagrams/) | [A](hash/group_anagrams.py) | -! |
+| 45  | Two sum | hash | [leetcode](https://leetcode.com/problems/two-sum/) | [A](hash/two_sum.py) |   |
+| 46  | Group Anagrams | hash | [leetcode](https://leetcode.com/problems/group-anagrams/) | [A](hash/group_anagrams.py) |   |
 | 47  | Subarray Sum Equals K | hash | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) | [A](hash/subarray_sum_equals_k.py) |   |
 | 48  | Palindrome Pairs | hash | [leetcode](https://leetcode.com/problems/palindrome-pairs/) | [A](hash/palindrome_pairs.py) |   |
 | 49  | Copy List with Random Pointer | hash | [leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [A](hash/copy_list_with_random_pointer.py) |   |
@@ -64,4 +64,4 @@
 
 ?: Still don't understand the solution (should try again)
 
-__cloned from Curt-Park__
+_cloned from Curt-Park_
