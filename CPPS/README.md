@@ -44,7 +44,7 @@
 | 38  | odd even jumps | array | [leetcode](https://leetcode.com/problems/odd-even-jump/) | [A](array/odd_even_jump.py) |   |
 | 39  | task scheduler | array | [leetcode](https://leetcode.com/problems/task-scheduler/) | [A](array/task_scheduler.py) |   |
 | 40  | merge two sorted lists | linked list | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) | [A](linked_list/merge_two_sorted_lists.py) |   |
-| 41  | K closest points to origin | heap | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) | [A](heap/k_closest_points_to_origin.py) |   |
+| 41  | K closest points to origin | heap | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) | [A](heap/k_closest_points_to_origin.py) | - |
 | 42  | Merge K sorted lists | heap | [leetcode](https://leetcode.com/problems/merge-k-sorted-lists/) | [A](heap/merge_k_sorted_lists.py) |   |
 | 43  | Kth largest element | heap | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [A](heap/kth_largest_element.py) |   |
 | 44  | Find Median from Data Stream | heap | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [A](heap/find_median_from_data_stream.py) |   |
