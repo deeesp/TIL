@@ -28,6 +28,10 @@ class Solution:
         # 중요한 아이디어
         # dictionary key에 tuple 이 들어갈 수 있는 것
         # value 에 list가 들어갈 수 있고 append도 가능하다는 것        
+        
+        Time: O(NMlogM)
+        Space: O(NM)
+        
         """
         
         answer = {}
