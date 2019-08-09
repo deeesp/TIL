@@ -44,13 +44,13 @@
 | 38  | odd even jumps | array | [leetcode](https://leetcode.com/problems/odd-even-jump/) | [A](array/odd_even_jump.py) |   |
 | 39  | task scheduler | array | [leetcode](https://leetcode.com/problems/task-scheduler/) | [A](array/task_scheduler.py) |   |
 | 40  | merge two sorted lists | linked list | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) | [A](linked_list/merge_two_sorted_lists.py) |   |
-| 41  | K closest points to origin | heap | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) | [A](https://github.com/DLOHai/Algorithm/blob/master/CPPS/k_closest_points_to_origin.py) | - |
+| 41  | K closest points to origin | heap | [leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) | [A](https://github.com/DLOHai/Algorithm/blob/master/CPPS/k_closest_points_to_origin.py) | + |
 | 42  | Merge K sorted lists | heap | [leetcode](https://leetcode.com/problems/merge-k-sorted-lists/) | [A](heap/merge_k_sorted_lists.py) |   |
 | 43  | Kth largest element | heap | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [A](heap/kth_largest_element.py) |   |
 | 44  | Find Median from Data Stream | heap | [leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [A](heap/find_median_from_data_stream.py) |   |
-| 45  | Two sum | hash | [leetcode](https://leetcode.com/problems/two-sum/) | [A](https://github.com/DLOHai/Algorithm/blob/master/CPPS/Two_Sum.py) | +! |
+| 45  | Two sum | hash | [leetcode](https://leetcode.com/problems/two-sum/) | [A](https://github.com/DLOHai/Algorithm/blob/master/CPPS/Two_Sum.py) | -! |
 | 46  | Group Anagrams | hash | [leetcode](https://leetcode.com/problems/group-anagrams/) | [A](hash/group_anagrams.py) |   |
-| 47  | Subarray Sum Equals K | hash | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) | [A](hash/subarray_sum_equals_k.py) |   |
+| 47  | Subarray Sum Equals K | hash | [leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) | [A](https://github.com/DLOHai/Algorithm/blob/master/CPPS/group_anagrams.py) | -! |
 | 48  | Palindrome Pairs | hash | [leetcode](https://leetcode.com/problems/palindrome-pairs/) | [A](hash/palindrome_pairs.py) |   |
 | 49  | Copy List with Random Pointer | hash | [leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [A](hash/copy_list_with_random_pointer.py) |   |
 | 50  | Insert Delete GetRandom O(1) | hash | [leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [A](hash/insert_delete_get_random.py) |  |
