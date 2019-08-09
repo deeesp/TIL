@@ -1,4 +1,6 @@
 """
+https://leetcode.com/problems/k-closest-points-to-origin/
+
 P 973. K Closest Points to Origin
 
 
