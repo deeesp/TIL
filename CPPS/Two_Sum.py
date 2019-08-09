@@ -16,15 +16,13 @@ return [0, 1].
 
 '''
 
-
-
 class Solution:
     
-    '''
+    """
     1. Brute-Force
     Time: O(N^2)
     Space: O(1)
-    '''
+    """
     def twoSum1(self, nums: List[int], target: int) -> List[int]:    
         for idx in range(len(nums)):
             for i in range(idx+1,len(nums)):
@@ -32,11 +30,12 @@ class Solution:
                     return [idx, i]
         return []
     
-    '''
+    
+    """
     2. One-Pass Hash Table
     Time: O(N)
     Space: O(N)
-    '''
+    """
     def twoSum2(self, nums, target):
         d = {}
         for idx, num in enumerate(nums):
