@@ -16,7 +16,7 @@ Both the left and right subtrees must also be binary search trees.
 Example 1:
 
     2
-   / \
+   / /\
   1   3
 
 Input: [2,1,3]
@@ -24,9 +24,9 @@ Output: true
 Example 2:
 
     5
-   / \
+   / /\
   1   4
-     / \
+     / /\
     3   6
 
 Input: [5,1,4,null,null,3,6]
