@@ -1,6 +1,6 @@
 # Chapter 4
 
-## Q1. 136. Single Number
+## Q2. 136. Single Number
 https://leetcode.com/problems/single-number/
 ---
 
@@ -17,7 +17,7 @@ class Solution:
 ```
 
 
-## Q2. 169. Majority Element
+## Q4. 169. Majority Element
 https://leetcode.com/problems/majority-element/
 ---
 
