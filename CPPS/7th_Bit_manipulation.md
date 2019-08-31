@@ -29,6 +29,19 @@ class Solution:
         Time: 
         Space: 
         ```
+        bit = [0]*32
+        for num in nums:
+            for j in range(32):
+                bit[j] += num >> j & 1
+        res = 0
+        
+        for i, val in enumerate(bit):
+            if val > len(nums)//2:
+                if i == 31:
+                    res = -((1<<31)-res)
+                else:
+                    res |= 1 << i
+        return res
         
         
     def majorityElement2(self, nums):
