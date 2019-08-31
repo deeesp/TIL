@@ -14,6 +14,30 @@ class Solution:
         for num in nums:
             sol ^= num
         return sol
+```
+
+
+## Q2. 169. Majority Element
+https://leetcode.com/problems/majority-element/
+---
+
+```
+class Solution:
+    def majorityElement1(self, nums):
+        ```
+        Bit Manipulation
+        Time: 
+        Space: 
+        ```
         
-    def singleNumber2(self, nums: List[int]) -> int:
+        
+    def majorityElement2(self, nums):
+        ```
+        Sorting
+        Time: O(NlogN)
+        Space: O(1)
+        ```
+        nums.sort()
+        return nums[len(nums)//2]
+        
 ```
