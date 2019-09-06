@@ -4,7 +4,8 @@
 
 https://leetcode.com/problems/reverse-integer/
 
-```class Solution:
+```
+class Solution:
    '''
    Time: O(N)
    Space: O(1)
