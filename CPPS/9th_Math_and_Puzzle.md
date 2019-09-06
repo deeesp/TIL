@@ -41,7 +41,32 @@ class Solution:
 https://leetcode.com/problems/palindrome-number/
 
 ```python
+class Solution:
+    '''
+    Time: O(log10N)
+    Space: O(1)
+    '''
+    def isPalindrome(self, x: int) -> bool:
+        if x < 0: return False
+        dup, rvsd = x, 0
+        
+        while dup:
+            dup, deno = divmod(dup,10)
+            rvsd = rvsd * 10 + deno
+            
+        return rvsd == x
 
+    '''
+    Time: O(N)
+    Space: O(N)
+    '''
+    def isPalindrome1(self, x: int) -> bool:
+        if x<0: return False
+        str_x = str(x)
+        lx=len(str_x)
+        for i in range(lx//2):
+            if str_x[i]!=str_x[lx-1-i]: return False
+        return True
 
 ```
 
