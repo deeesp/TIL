@@ -34,3 +34,31 @@ class Solution:
         if 2**31<abs_rvrsd: return 0
         return sign*abs_rvrsd
 ```
+
+
+
+## Q2 9. Palindrome Number
+https://leetcode.com/problems/palindrome-number/
+
+```python
+
+
+```
+
+
+
+## Q3 29. Divide Two Integers
+https://leetcode.com/problems/divide-two-integers/
+
+```python
+
+```
+
+
+
+## Q4 202. Happy Number
+https://leetcode.com/problems/happy-number
+
+```python
+
+```
