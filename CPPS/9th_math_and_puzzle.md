@@ -4,7 +4,7 @@
 
 https://leetcode.com/problems/reverse-integer/
 
-```
+```python
 class Solution:
    '''
    Time: O(N)
@@ -22,5 +22,4 @@ class Solution:
     '''
     def reverse2(self, x: int) -> int:
     
-    
-        ```
+```
