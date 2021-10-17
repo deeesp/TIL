@@ -9,7 +9,7 @@
 |211016|백준|[15683 - 감시](https://www.acmicpc.net/problem/15683)|[211016_15683_cctv.py](https://github.com/deeesp/TIL/blob/master/Algorithm/211016_15683_cctv.py)|18 상반기|
 |211016|백준|[15685 - 드래곤 커브](https://www.acmicpc.net/problem/15685)|[211016_15685_dragon.py](https://github.com/deeesp/TIL/blob/master/Algorithm/211016_15685_dragon.py)|18 상반기|
 |211016|백준|[15686 - 치킨배달](https://www.acmicpc.net/problem/15686)|[211016_15686_chicken.py](https://github.com/deeesp/TIL/blob/master/Algorithm/211016_15686_chicken.py)|18 상반기|
-|211017|백준|[5373 - 큐빙](https://www.acmicpc.net/problem/5373)|(211017_5373_cube.py)[https://github.com/deeesp/TIL/blob/master/Algorithm/211017_5373_cube.py]|18 하반기, 구현 복습 필요|
-|211017|백준|[16234 - 인구 이동](https://www.acmicpc.net/problem/16234)|(211017_16234_population_transfer.py)[https://github.com/deeesp/TIL/blob/master/Algorithm/211017_16234_population_transfer.py]|18 하반기|
-|211017|백준|[16236 - 아기 상어](https://www.acmicpc.net/problem/16236)|(211017_16236_baby_shark.py)[https://github.com/deeesp/TIL/blob/master/Algorithm/211017_16236_baby_shark.py]|18 하반기|
+|211017|백준|[5373 - 큐빙](https://www.acmicpc.net/problem/5373)|[211017_5373_cube.py](https://github.com/deeesp/TIL/blob/master/Algorithm/211017_5373_cube.py)|18 하반기, 구현 복습 필요|
+|211017|백준|[16234 - 인구 이동](https://www.acmicpc.net/problem/16234)|[211017_16234_population_transfer.py](https://github.com/deeesp/TIL/blob/master/Algorithm/211017_16234_population_transfer.py)|18 하반기|
+|211017|백준|[16236 - 아기 상어](https://www.acmicpc.net/problem/16236)|[211017_16236_baby_shark.py](https://github.com/deeesp/TIL/blob/master/Algorithm/211017_16236_baby_shark.py)|18 하반기|
 |211018|백준|[16235 - 나무 재태크](https://www.acmicpc.net/problem/16235)|-|18 하반기|
