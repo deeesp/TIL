@@ -1,2 +1,0 @@
-# Algorithm Practice
-## with LeetCode
